@@ -283,12 +283,6 @@ Potential enhancements include:
 
 ---
 
-# 📄 License
-
-This project was developed for an academic/take-home assessment and learning purposes.
-
----
-
 # 👨‍💻 Author
 
 **sai**
