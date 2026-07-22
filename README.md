@@ -261,18 +261,6 @@ These challenges were resolved through component restructuring and proper Fireba
 
 ---
 
-# 📌 Assumptions Made
-
-The application assumes that:
-
-- Every user has a valid email address.
-- Users authenticate using Email and Password.
-- Every task belongs to exactly one authenticated user.
-- Firestore security rules restrict unauthorized access.
-- Internet connectivity is available while using the application.
-
----
-
 # 🚀 Future Improvements
 
 Potential enhancements include:
@@ -292,19 +280,6 @@ Potential enhancements include:
 - Export Tasks to PDF/Excel
 - Unit Testing
 - Offline Support
-
----
-
-# 📸 Screenshots
-
-> Add screenshots of:
-
-- Login Page
-- Registration Page
-- Dashboard
-- Add Task
-- Edit Task
-- Search & Filter
 
 ---
 
