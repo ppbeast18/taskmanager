@@ -244,23 +244,6 @@ Cloud Firestore stores:
 
 ---
 
-# 💡 Challenges Faced
-
-During development several challenges were encountered:
-
-- Configuring Firebase Authentication
-- Implementing Protected Routes
-- Managing React State efficiently
-- Performing Firestore CRUD operations
-- Restricting users to view only their own tasks
-- Handling asynchronous Firebase operations
-- Maintaining responsive layouts across devices
-- Debugging routing and JSX syntax errors
-
-These challenges were resolved through component restructuring and proper Firebase integration.
-
----
-
 # 🚀 Future Improvements
 
 Potential enhancements include:
@@ -272,14 +255,9 @@ Potential enhancements include:
 - Email Reminders
 - Task Attachments
 - Task Priority Colors
-- Real-time Firestore Updates
-- User Profile Management
-- Team Collaboration
 - Activity History
 - Calendar View
 - Export Tasks to PDF/Excel
-- Unit Testing
-- Offline Support
 
 ---
 
